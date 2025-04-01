@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img src="kosmos_g.png" alt="" width="100%">
+    <img src="kosmos.png" alt="" width="100%">
     <br>
     <em>Figure5: Comparison between EasyRef and Kosmos-G.</em>
 </p>
